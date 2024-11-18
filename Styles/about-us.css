@@ -454,12 +454,13 @@ header {
 
 /*Section 2*/
 .sec-section{
-    background-color: #000;
+    /* background-color: #000; */
+    background-color: white;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    color: white;
+    color: black;
     width: 100%;
     text-align: center;
     gap: 20px;
